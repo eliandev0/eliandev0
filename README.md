@@ -1,7 +1,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=eliandev0&label=Visitas%20de%20perfil&color=lightgrey" alt="Visitas perfil">
 </p>
-<h1 align="left">Hi World! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" alt="world" width="30" height="30"/>👋 soy Elian, vivo en Tenerife, España.</h1> 
+<h1 align="left">Hi World! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" alt="world" width="25" height="25"/>👋 soy Elian, vivo en Tenerife, España.</h1> 
 <h3 align="left">🎓Soy UI/UX Designer certificado por Google</h3>
 
 <div>
