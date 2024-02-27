@@ -3,14 +3,14 @@
 </p>
 <h1 align="left">Hola 👋, soy Elian De Valois</h1> 
 <h3 align="left">🎓UI/UX Designer by Google</h3>
-<br>
-</br>
+
 <div>
   <ul>
-    <li>👨‍💻 Estudiante de **Desarrollo de aplicaciones multiplataforma**</li>
-    <li>🌱 Estoy aprendiendo **Java, Python y mySQL**</li>
+    <li>👨‍💻 Estudiante de <strong>Desarrollo de aplicaciones multiplataforma</strong></li>
+    <li>🌱 Estoy aprendiendo Java, Python y mySQL</li>
   </ul>
 </div>
+
 <div>
   <ul>
     <li>🎓 Certificado **Diseño de Experiencia e Interfaces de usuario (UI/UX) por Google**</li>
@@ -18,6 +18,7 @@
     <li>🎓 Certificado **Marketing Digital por Google**</li>
   </ul>
 </div>
+
 <div>
   <ul>
     <li>💼 Trabajo con **Adobe Photoshop, Adobe Premiere Pro y Figma** para dar vida a mis ideas creativas.</li>
