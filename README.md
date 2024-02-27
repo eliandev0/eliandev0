@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Elian De Valois</h1>
 <h3 align="center">🎓UI/UX Designer by Google </h3>
-![](https://komarev.com/ghpvc/?username=eliandev0&color=blue)
+![](https://komarev.com/ghpvc/?username=eliandev0&abbreviated=true)
 
 ·👨‍💻 Estudiante de **Desarrollo de aplicaciones multiplataforma**
 
