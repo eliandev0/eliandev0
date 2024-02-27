@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Elian De Valois</h1>
-<h3 align="center">UI/UX Designer by: Google </h3>
+<h3 align="center">🎓UI/UX Designer by Google </h3>
 
 ·👨‍💻 Estudiante de **Desarrollo de aplicaciones multiplataforma**
 ·🌱 Estoy aprendiendo **Java, Python y mySQL**
