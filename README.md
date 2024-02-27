@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Elian De Valois</h1>
 <h3 align="center">🎓UI/UX Designer by Google
 
-![Visitas pil](https://komarev.com/ghpvc/?username=eliandev0&visitas+color=lightgrey) 
+![Perfil visitas](https://komarev.com/ghpvc/?username=eliandev0&color=green) 
 
 </h3>
 
