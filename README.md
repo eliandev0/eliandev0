@@ -22,6 +22,10 @@
 <div>
   <ul>
     <li>💼 Trabajo con <strong>Adobe Photoshop, Adobe Premiere Pro y Figma</strong> para dar vida a mis ideas creativas.</li>
+      </ul>
+</div>
+<div>
+  <ul>
     <li>📫 Puedes contactarme por correo electrónico en <strong>eliandev0@outlook.com</strong></li>
   </ul>
 </div>
