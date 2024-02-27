@@ -9,13 +9,13 @@
   <ul>
     <li>·👨‍💻 Estudiante de **Desarrollo de aplicaciones multiplataforma**</li>
     <li>·🌱 Estoy aprendiendo **Java, Python y mySQL**</li>
+    <li><br></li>br></li>
     <li>·🎓 Certificado **Diseño de Experiencia e Interfaces de usuario (UI/UX) por Google**</li>
     <li>·🎓 Certificado **Digitaliza tu Negocio paso a paso por Google**</li>
     <li>·🎓 Certificado **Marketing Digital por Google**</li>
-    <li>·💼 Trabajo con **Adobe Photoshop, Adobe Premiere Pro y Figma** para dar vida a mis ideas creativas.</li>
-    <li>·📫 Puedes contactarme por correo electrónico en **eliandev0@outlook.com**</li>
   </ul>
 </div>
+
 ·👨‍💻 Estudiante de **Desarrollo de aplicaciones multiplataforma**
 ·🌱 Estoy aprendiendo **Java, Python y mySQL**
 ·🎓 Certificado **Diseño de Experiencia e Interfaces de usuario (UI/UX) por Google**
