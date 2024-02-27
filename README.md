@@ -13,7 +13,7 @@
 
 ·💼 Trabajo con **Adobe Photoshop, Adobe Premiere Pro y Figma** para dar vida a mis ideas creativas.
 
-·📫 Email de contacto **eliandev0@outlook.com**
+·📫 Puedes contactarme por correo electrónico en **eliandev0@outlook.com**
 
 <h3 align="left">Lenguajes:</h3> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
