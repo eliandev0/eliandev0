@@ -7,22 +7,23 @@
 </br>
 <div>
   <ul>
-    <li>·👨‍💻 Estudiante de **Desarrollo de aplicaciones multiplataforma**</li>
-    <li>·🌱 Estoy aprendiendo **Java, Python y mySQL**</li>
-    <li><br></li>br></li>
-    <li>·🎓 Certificado **Diseño de Experiencia e Interfaces de usuario (UI/UX) por Google**</li>
-    <li>·🎓 Certificado **Digitaliza tu Negocio paso a paso por Google**</li>
-    <li>·🎓 Certificado **Marketing Digital por Google**</li>
+    <li>👨‍💻 Estudiante de **Desarrollo de aplicaciones multiplataforma**</li>
+    <li>🌱 Estoy aprendiendo **Java, Python y mySQL**</li>
   </ul>
 </div>
-
-·👨‍💻 Estudiante de **Desarrollo de aplicaciones multiplataforma**
-·🌱 Estoy aprendiendo **Java, Python y mySQL**
-·🎓 Certificado **Diseño de Experiencia e Interfaces de usuario (UI/UX) por Google**
-·🎓 Certificado **Digitaliza tu Negocio paso a paso por Google**
-·🎓 Certificado **Marketing Digital por Google**
-·💼 Trabajo con **Adobe Photoshop, Adobe Premiere Pro y Figma** para dar vida a mis ideas creativas.
-·📫 Puedes contactarme por correo electrónico en **eliandev0@outlook.com**
+<div>
+  <ul>
+    <li>🎓 Certificado **Diseño de Experiencia e Interfaces de usuario (UI/UX) por Google**</li>
+    <li>🎓 Certificado **Digitaliza tu Negocio paso a paso por Google**</li>
+    <li>🎓 Certificado **Marketing Digital por Google**</li>
+  </ul>
+</div>
+<div>
+  <ul>
+💼 Trabajo con **Adobe Photoshop, Adobe Premiere Pro y Figma** para dar vida a mis ideas creativas.
+📫 Puedes contactarme por correo electrónico en **eliandev0@outlook.com**
+  </ul>
+</div>
 
 <h3 align="left">Lenguajes:</h3> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
