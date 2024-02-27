@@ -22,7 +22,12 @@
 <div>
   <ul>
     <li>💼 Trabajo con <strong>Adobe Photoshop, Adobe Premiere Pro y Figma</strong> para dar vida a mis ideas creativas.</li>
-      </ul>
+  </ul>
+</div>
+<div>
+  <ul>
+    <li>📲 Ademas creo contenido para <strong>Redes Sociales.</strong></li>
+  </ul>
 </div>
 <div>
   <ul>
