@@ -1,16 +1,16 @@
 <h1 align="center">Hola 👋, soy Elian De Valois</h1>
 <h3 align="center">🎓UI/UX Designer by Google </h3>
 
-·👨‍💻 Estudiante de **Desarrollo de aplicaciones multiplataforma**
-·🌱 Estoy aprendiendo **Java, Python y mySQL**
+-👨‍💻 Estudiante de **Desarrollo de aplicaciones multiplataforma**
+-🌱 Estoy aprendiendo **Java, Python y mySQL**
 
-·🎓 Certificado **Diseño de Experiencia e Interfaces de usuario (UI/UX) por Google** 
-·🎓 Certificado **Digitaliza tu Negocio paso a paso por Google**
-·🎓 Certificado **Marketing Digital por Google**
+-🎓 Certificado **Diseño de Experiencia e Interfaces de usuario (UI/UX) por Google** 
+-🎓 Certificado **Digitaliza tu Negocio paso a paso por Google**
+-🎓 Certificado **Marketing Digital por Google**
 
-·💼 Trabajo con **Adobe Photoshop, Adobe Premiere Pro, Figma, para dar vida a mis ideas creativas.**
+-💼 Trabajo con **Adobe Photoshop, Adobe Premiere Pro, Figma, para dar vida a mis ideas creativas.**
 
-·📫 Email de contacto **eliandev0@outlook.com**
+-📫 Email de contacto **eliandev0@outlook.com**
 
 <h3 align="left">Lenguajes:</h3> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
