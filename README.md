@@ -11,7 +11,7 @@
 
 -🎓 Certificado **Marketing Digital por Google**
 
--💼 Trabajo con **Adobe Photoshop, Adobe Premiere Pro, Figma, para dar vida a mis ideas creativas.**
+-💼 Trabajo con **Adobe Photoshop, Adobe Premiere Pro, Figma** para dar vida a mis ideas creativas.
 
 -📫 Email de contacto **eliandev0@outlook.com**
 
