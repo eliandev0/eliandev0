@@ -3,7 +3,7 @@
 
 ·👨‍💻 Estudiante de **Desarrollo de aplicaciones multiplataforma**
 
--🌱 Estoy aprendiendo **Java, Python y mySQL**
+·🌱 Estoy aprendiendo **Java, Python y mySQL**
 
 ·🎓 Certificado **Diseño de Experiencia e Interfaces de usuario (UI/UX) por Google**
 
