@@ -4,7 +4,7 @@
 <h1 align="left">Hola 👋, soy Elian De Valois</h1> 
 <h3 align="left">🎓UI/UX Designer by Google</h3>
 
-<div class="linea"></div>
+<hr style="color: #0056b2;" />
 
 
 ·👨‍💻 Estudiante de **Desarrollo de aplicaciones multiplataforma**
