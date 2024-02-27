@@ -6,23 +6,23 @@
 
 <div>
   <ul>
-    <li>👨‍💻 Estudiante de <strong>Desarrollo de aplicaciones multiplataforma</strong></li>
-    <li>🌱 Estoy aprendiendo Java, Python y mySQL</li>
+    <li>👨‍💻 Estudiante de <strong>Desarrollo de Aplicaciones Multiplataforma</strong></li>
+    <li>🌱 Estoy aprendiendo <strong>Java, Python y mySQL</strong></li>
   </ul>
 </div>
 
 <div>
   <ul>
-    <li>🎓 Certificado **Diseño de Experiencia e Interfaces de usuario (UI/UX) por Google**</li>
-    <li>🎓 Certificado **Digitaliza tu Negocio paso a paso por Google**</li>
-    <li>🎓 Certificado **Marketing Digital por Google**</li>
+    <li>🎓 Certificado <strong>Diseño de Experiencia e Interfaces de usuario (UI/UX) por Google</strong></li>
+    <li>🎓 Certificado <strong>Digitaliza tu Negocio paso a paso por Google</strong></li>
+    <li>🎓 Certificado <strong>Marketing Digital por Google</strong></li>
   </ul>
 </div>
 
 <div>
   <ul>
-    <li>💼 Trabajo con **Adobe Photoshop, Adobe Premiere Pro y Figma** para dar vida a mis ideas creativas.</li>
-    <li>📫 Puedes contactarme por correo electrónico en **eliandev0@outlook.com**</li>
+    <li>💼 Trabajo con <strong>Adobe Photoshop, Adobe Premiere Pro y Figma</strong> para dar vida a mis ideas creativas.</li>
+    <li>📫 Puedes contactarme por correo electrónico en <strong>eliandev0@outlook.com</strong></li>
   </ul>
 </div>
 
