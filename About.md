@@ -1,4 +1,0 @@
-- 👋 Hi, I'm Elian (@ELIANlnk)
-- 👀 I am interested in learning
-- 🌱 I have started to study coding
-- 📫 You can contact me on elianlnk0@gmail.com
