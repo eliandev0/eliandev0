@@ -20,8 +20,8 @@
 </div>
 <div>
   <ul>
-💼 Trabajo con **Adobe Photoshop, Adobe Premiere Pro y Figma** para dar vida a mis ideas creativas.
-📫 Puedes contactarme por correo electrónico en **eliandev0@outlook.com**
+    <li>💼 Trabajo con **Adobe Photoshop, Adobe Premiere Pro y Figma** para dar vida a mis ideas creativas.</li>
+    <li>📫 Puedes contactarme por correo electrónico en **eliandev0@outlook.com**</li>
   </ul>
 </div>
 
