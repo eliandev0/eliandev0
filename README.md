@@ -37,7 +37,7 @@
 
 <h3 align="left">Languages:</h3> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://clipart-library.com/new_gallery/289-2896071_python-logo-png-165709.png" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png" alt="php" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/840630.png" alt="mysql" width="40" height="40"/> </a> 
   
