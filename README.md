@@ -7,7 +7,7 @@
 <div>
   <ul>
     <li>👨‍💻 Student of <strong>Cross-platform Application Development</strong></li>
-    <li>🌱 I am learning <strong>Java, Python y mySQL</strong></li>
+    <li>🌱 I am learning <strong>Java, JavaScript, PHP HTML and mySQL</strong></li>
   </ul>
 </div>
 
@@ -21,7 +21,7 @@
 
 <div>
   <ul>
-    <li>💼 I work with <strong>Adobe Photoshop, Adobe Premiere Pro and Figma</strong> to bring my creative ideas to life.</li>
+    <li>💼 I work with <strong>Adobe Photoshop, Adobe Premiere Pro, AutoDesk Fusion 360 and Figma</strong> to bring my creative ideas to life.</li>
   </ul>
 </div>
 <div>
@@ -37,10 +37,12 @@
 
 <h3 align="left">Languages:</h3> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://clipart-library.com/new_gallery/289-2896071_python-logo-png-165709.png" alt="python" width="40" height="40"/> </a>
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://clipart-library.com/new_gallery/289-2896071_python-logo-png-165709.png" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png" alt="php" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/840630.png" alt="mysql" width="40" height="40"/> </a> 
   
 <h3 align="left">Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://creativecode.it/wp-content/uploads/2019/07/figma-logo.png" alt="figma" width="45" height="45"/> </a>
+<p align="left"> <a href="https://www.autodesk.com/es/solutions/fusion-360-3d-modeling" target="_blank" rel="noreferrer"> <img src="https://images.squarespace-cdn.com/content/v1/59752bf3c534a5ea5ddaf3f2/89472539-7211-47aa-bdd2-f53af07d0ea7/Fusion-360-Logo-22-alpha-01.png" alt="fusion360" width="45" height="45"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-1.png" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/es/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://www.trainingonsite.com/images/stories/Premiere-Pro-CC-2020-icon-600px.png" alt="xd" width="40" height="40"/> </a> </p>
