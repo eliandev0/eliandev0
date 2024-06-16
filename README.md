@@ -7,7 +7,7 @@
 <div>
   <ul>
     <li>👨‍💻 Student of <strong>Cross-platform Application Development</strong></li>
-    <li>🌱 I am learning <strong>Java, JavaScript, PHP HTML and mySQL</strong></li>
+    <li>🌱 I am learning <strong>Java, JavaScript, PHP, HTML and mySQL</strong></li>
   </ul>
 </div>
 
